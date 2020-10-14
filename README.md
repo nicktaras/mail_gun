@@ -13,6 +13,6 @@ Mail Gun, success message: 'Queued. Thank you.
 
 ## Notes from testing the service:
 
-- From experimenting with Mail Gun's free tier service you may find that the mail does not reach the mail inbox. If this occurs you can speak to their team and they will point your account to another ip address. Therefore, I would suggest using the free tier as a short term solution.
+- From experimenting with Mail Gun's free tier service you may find that the mail does not reach the mail inbox. If this occurs you can speak to their team and they will point your account to another ip address. Therefore, I would suggest using the free tier as a testing solution / not for production.
 
 - When sending mail using the free tier it will go into your junk mail box. The delivery reports inside the dashboard will show when mail could not be sent which I found helpful in debugging issues and raising them with the support team. 
